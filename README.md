@@ -1,5 +1,4 @@
 # Calculadora-Reposteria
-Calculadora de costos para empresa de postres
 <!DOCTYPE html>
 <html lang="es">
 <head>
